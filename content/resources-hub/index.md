@@ -5,6 +5,18 @@ description: "Comprehensive resources and documentation for the ReFi DAO ecosyst
 
 # Resources Hub
 
+> **Welcome to ReFi DAO: A Network Society to Regenerate the Earth.**
+>
+> In the face of cascading global challenges, we do not despair. We envision a **regenerative paradigm**. A transformative future where community, finance, and technology work in synergy towards ecological and social harmony.
+>
+> → Read our [**Community Covenant**](https://www.notion.so/199bf304370a80babdb1cc3e0a6670ce) to understand our values and commitments
+
+> **Mission: Building a global regenerative economy, rooted in local communities.**
+>
+> ReFi DAO's mission is to regenerate the Earth by catalysing **regenerative economies** at local, bioregional, and global scale. To get there, we aim to scale the [**Regenerative Finance (ReFi) movement**](https://www.regenerative.fi/insights/what-is-refi-regenerative-finance) and empower communities in co-creating a future rooted in social equity, economic opportunity, and ecological restoration.
+
+## Introduction
+
 Welcome to the ReFi DAO Resources Hub! 📚
 
 This comprehensive documentation serves as your roadmap through the ReFi DAO ecosystem, whether you're:
@@ -16,15 +28,11 @@ This comprehensive documentation serves as your roadmap through the ReFi DAO eco
 
 Throughout these docs, you'll find links to our foundational documents, practical guides, and the tools needed to participate meaningfully in our mission to build a global regenerative economy rooted in local communities.
 
-> **Welcome to ReFi DAO: A Network Society to Regenerate the Earth.**
->
-> In the face of cascading global challenges, we do not despair. We envision a **regenerative paradigm**. A transformative future where community, finance, and technology work in synergy towards ecological and social harmony.
->
-> → Read our [**Community Covenant**](https://www.notion.so/199bf304370a80babdb1cc3e0a6670ce) to understand our values and commitments
+### Key Resources
 
-> **Mission: Building a global regenerative economy, rooted in local communities.**
->
-> ReFi DAO's mission is to regenerate the Earth by catalysing **regenerative economies** at local, bioregional, and global scale. To get there, we aim to scale the [**Regenerative Finance (ReFi) movement**](https://www.regenerative.fi/insights/what-is-refi-regenerative-finance) and empower communities in co-creating a future rooted in social equity, economic opportunity, and ecological restoration.
+- [Proposals & Documentation](https://www.notion.so/Proposals-Documentation-2072e7251f2f80ccaf3fdc255b976a20)
+- [Onboarding Guides](https://www.notion.so/Onboarding-Guides-2072e7251f2f80eaa762d43ea7a13779)
+- [Local Node Toolkit v1.5](https://www.notion.so/Local-Node-Toolkit-v1-5-2062e7251f2f8079b4f3f0aa0545a083)
 
 ---
 
