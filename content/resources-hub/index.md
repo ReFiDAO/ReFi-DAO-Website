@@ -9,7 +9,7 @@ description: "Comprehensive resources and documentation for the ReFi DAO ecosyst
 >
 > In the face of cascading global challenges, we do not despair. We envision a **regenerative paradigm**. A transformative future where community, finance, and technology work in synergy towards ecological and social harmony.
 >
-> → Read our [**Community Covenant**](https://www.notion.so/199bf304370a80babdb1cc3e0a6670ce) to understand our values and commitments
+> → Read our [**Community Covenant**](documents/community-covenant) to understand our values and commitments
 
 > **Mission: Building a global regenerative economy, rooted in local communities.**
 >
@@ -30,9 +30,9 @@ Throughout these docs, you'll find links to our foundational documents, practica
 
 ### Key Resources
 
-- [Proposals & Documentation](https://www.notion.so/Proposals-Documentation-2072e7251f2f80ccaf3fdc255b976a20)
-- [Onboarding Guides](https://www.notion.so/Onboarding-Guides-2072e7251f2f80eaa762d43ea7a13779)
-- [Local Node Toolkit v1.5](https://www.notion.so/Local-Node-Toolkit-v1-5-2062e7251f2f8079b4f3f0aa0545a083)
+- [[documents/proposals-documentation|Proposals & Documentation]]
+- [[documents/onboarding-guides|Onboarding Guides]]
+- [Local Node Toolkit v1.5](https://www.notion.so/Local-Node-Toolkit-v1-5-2252e7251f2f8067bdaec75fea036d3c)
 
 ---
 
@@ -46,7 +46,7 @@ Get connected with the ReFi DAO ecosystem and learn about regenerative finance:
 - **Listen:** [ReFi Podcast](https://youtube.com/@refidao) - Insights from regenerative finance leaders
 - **Read:** [Blog](https://blog.refidao.com/) - Latest updates and thought leadership
 
-### Engage with the Community
+### Community Channels
 
 - **Follow our socials:** [Linktr.ee/refidao](https://linktr.ee/refidao)
 - **Join community channels:**
@@ -56,7 +56,7 @@ Get connected with the ReFi DAO ecosystem and learn about regenerative finance:
 
 ### Explore the Ecosystem
 
-- **[ReFi DAO Community Directory](https://www.refidao.com/local-nodes)** - Discover the community
+- **[ReFi DAO Community Directory](https://www.refidao.com/local-nodes)** - Discover the community @ [ReFiDAO.com](https://www.refidao.com/)
 - [ReFi DAO Mirror](https://mirror.xyz/refidao.eth/-5xV8xY7B9OEz9Di8KZAUiBfbllmhAlENv3cXVFthW8)
 - [ReFi DAO on KarmaGAP](https://gap.karmahq.xyz/community/refidao)
 - **[Local Nodes Map](https://www.regenatlas.xyz/orgs)** - Discover ReFi Local Nodes across the globe
@@ -71,13 +71,13 @@ Become an active member of the network and start contributing:
 
 ReFi DAO is a **network society** that operates across multiple levels from global to local. The organizational structure combines decentralized autonomy with clear structure, connectivity, and a collective mission. This allows diverse initiatives to flourish while ensuring alignment with the broader mission and values of ReFi DAO.
 
-**Read more:** 👉 **[ReFi DAO Network - Structure, Roles, & Governance](https://www.notion.so/ReFi-DAO-Network-Structure-Roles-Governance-2062e7251f2f80219df3d996d1a95ea1)**
+**Read more:** 👉 [[documents/network-structure|ReFi DAO Network - Structure, Roles, & Governance]]
 
 ### Become a Network Member
 
-**Network Members** signal alignment with ReFi DAO's vision, mission, and values by signing the [ReFi DAO Community Covenant V1](https://www.notion.so/ReFi-DAO-Community-Covenant-V1-2072e7251f2f801bafbcc06b48debc70). This entry-level membership provides access to basic resources, participation in discussions, and opportunities to contribute.
+**Network Members** signal alignment with ReFi DAO's vision, mission, and values by signing the [[documents/community-covenant|ReFi DAO Community Covenant V1]]. This entry-level membership provides access to basic resources, participation in discussions, and opportunities to contribute.
 
-**Start here:** 👉 **[ReFi DAO Network Member Onboarding Guide](https://www.notion.so/ReFi-DAO-Network-Member-Onboarding-Guide-2032e7251f2f80d7949ffdafe1bcbf46)**
+**Start here:** 👉 [[documents/network-member-onboarding|ReFi DAO Network Member - Onboarding Guide]]
 
 ### Join or Support a Local Node
 
@@ -91,7 +91,7 @@ ReFi DAO is a **network society** that operates across multiple levels from glob
 - **[Attend community calls](https://lu.ma/user/usr-H16hNq7qfyf0j8T)** and network events
 - **Join working groups** aligned with your interests and expertise
 - **Earn Contribution Points** for your participation
-  - **See:** 👉 **[ReFi DAO Reputation - Contribution Points Documentation](https://www.notion.so/ReFi-DAO-Reputation-Contribution-Points-Documentation-2082e7251f2f80a9be95f674baa25646)**
+  - **See:** 👉 [[documents/contribution-points|ReFi DAO Reputation - Contribution Points Documentation]]
 
 ### Access Funding Opportunities
 
@@ -99,7 +99,7 @@ ReFi DAO is a **network society** that operates across multiple levels from glob
 - **Network Initiatives Pool** - Up to 3,000 USDGLO for innovative projects
 - **Conviction voting** system that rewards sustained community support
 
-**Learn more:** 👉 **[ReFi DAO Garden - Funding Pools](https://www.notion.so/ReFi-DAO-Garden-Funding-Pools-2082e7251f2f80778e47d12b39178132)**
+**Learn more:** 👉 [[documents/community-garden|ReFi DAO Community Garden]]
 
 **Check & engage with ReFi DAO's Garden:** 👉 https://app.gardens.fund/gardens/42220/0x4f604735c1cf31399c6e711d5962b2b3e0225ad3/0x13e71c56c5b048e9b8b6a9dbb4a4f346b5dab986
 
@@ -111,7 +111,7 @@ Take leadership in building the regenerative economy:
 
 ### Join ReFi DAO Global
 
-As described in [ReFi DAO Network - Structure, Roles, & Governance](https://www.notion.so/ReFi-DAO-Network-Structure-Roles-Governance-2062e7251f2f80219df3d996d1a95ea1), **ReFi DAO Global** is the core coordination and governance body for the ReFi DAO Network. It:
+As described in [[documents/network-structure|ReFi DAO Network - Structure, Roles, & Governance]], **ReFi DAO Global** is the core coordination and governance body for the ReFi DAO Network. It:
 
 - **Facilitates strategic planning** and high-level documentation for the network
 - **Manages financial resources** and supports Local Nodes and Network Initiatives
@@ -126,15 +126,15 @@ Become a Core Contributor, Core Steward, or Advisor to help coordinate the globa
 - Relevant expertise and availability for coordination work
 - Alignment with ReFi DAO's mission and governance principles
 
-**Start here:** 👉 **[ReFi DAO Global Onboarding Guide](https://www.notion.so/ReFi-DAO-Global-Onboarding-Guide-2032e7251f2f805c9a75d3717e0c7488)**
+**Start here:** 👉 [[documents/global-onboarding|ReFi DAO Global Onboarding Guide]]
 
 ### Start a Local Node
 
-A ReFi Local Node is a **place-based community** that serves as a living laboratory for regenerative finance in your region. As described in our [ReFi DAO Network Structure, Roles, & Governance](https://www.notion.so/ReFi-DAO-Network-Structure-Roles-Governance-2062e7251f2f80219df3d996d1a95ea1) document, ReFi Local Nodes:
+A ReFi Local Node is a **place-based community** that serves as a living laboratory for regenerative finance in your region. As described in our [[documents/network-structure|ReFi DAO Network Structure, Roles, & Governance]] document, ReFi Local Nodes:
 
 - **Build local regenerative economies** through events, media, software, capital raising, and land projects.
 - **Experiment with and implement** ReFi tools and systems, see [Local ReFi Toolkit (Drafting)](https://www.notion.so/Local-ReFi-Toolkit-Drafting-1ba2e7251f2f808d95b9f6d9f21cf77c).
-- **Operate with regional autonomy** while maintaining alignment with ReFi DAO's global vision, mission and values, see [ReFi DAO Community Covenant](https://www.notion.so/199bf304370a80babdb1cc3e0a6670ce).
+- **Operate with regional autonomy** while maintaining alignment with ReFi DAO's global vision, mission and values, see [[documents/community-covenant|ReFi DAO Community Covenant]].
 - **Share knowledge and learnings** with the broader network to accelerate collective impact.
 
 **Quick Start Process:**
@@ -142,36 +142,31 @@ A ReFi Local Node is a **place-based community** that serves as a living laborat
 1. **Review prerequisites**
    - Sign the Community Covenant as a Network Member
    - Understand [what a Local Node is](https://www.notion.so/6c829adc3cfc4a0388efc5238bac15d2)
-   - Read the [Local Node Membership Agreement](https://www.notion.so/201bf304370a8038a898e7ba76319fc1)
+   - Read the [[documents/local-node-membership-agreement|Local Node Membership Agreement]]
 2. **Submit funding proposal** on [Gardens.fund](https://gardens.fund/)
    - Request up to 500 USDGLO from the Kickstarter Pool
    - Include team info, deliverables, and timeline
 3. **If approved**
-   - Complete the Membership Agreement form to become official
+   - Sign the Membership Agreement to become official
    - Develop your brand and social channels
    - Join the Local Node Leaders Telegram group
    - Set up project tracking on [KarmaGAP](https://gap.karmahq.xyz/)
+   - Checkout [Local Node Toolkit v1.5](https://www.notion.so/Local-Node-Toolkit-v1-5-2252e7251f2f8067bdaec75fea036d3c)
    - Start building your local regenerative economy!
 
-**Complete guide:** **👉 [Starting a ReFi Local Node - Onboarding Guide](https://www.notion.so/Starting-a-ReFi-Local-Node-Onboarding-Guide-2032e7251f2f80d08a56fa2e65109a93)**
+**Complete guide:** **👉 [[documents/starting-local-node|Starting a ReFi Local Node - Onboarding Guide]]**
 
 ### Launch a Network Initiative
 
-A ReFi DAO Network Initiative is an **autonomous project, guild, or working group** that serves as a specialized contributor to the regenerative finance ecosystem. As described in our [ReFi DAO Network Structure, Roles, & Governance](https://www.notion.so/ReFi-DAO-Network-Structure-Roles-Governance-2062e7251f2f80219df3d996d1a95ea1) document, Network Initiatives are thematic communities that:
+**Network Initiatives** are **autonomous projects, guilds, or working groups** that align with the mission, vision, values, and identity of ReFi DAO - as described in [[documents/network-structure|ReFi DAO Network - Structure, Roles, & Governance]].
 
-- **Develop specialized solutions** for regenerative finance challenges
-- **Create public goods** through media, software, research, or educational programs
-- **Operate autonomously** while maintaining alignment with ReFi DAO's global mission
-- **Share knowledge and innovations** with the broader network to accelerate collective impact
-- **Build bridges** between different sectors and communities in the ReFi space
+These initiatives operate independently with their own teams, resources, and structures, while maintaining coherence with the broader network's goals and brand identity. They may also receive financial support and guidance from ReFi DAO Global.
 
-**Examples of Network Initiatives:** [ReFi Podcast](https://linktr.ee/refipodcast), [ReFi Blog](https://blog.refidao.com/), ReFi EBF & [Prosperity Pass](https://pass.celopg.eco/welcome).
+**🌟 Example Network Initiatives:**
 
-**Requirements:**
-- Become a Core Contributor to ReFi DAO Global
-- Alignment with Community Covenant and network mission
-- Clear value proposition for the ReFi ecosystem
-- Sustainable operational model and impact metrics
+- **ReFi Podcast** - A media initiative that shares knowledge, interviews, and insights from the regenerative finance space.
+- **ReFi EBF** - Initiative focused on the Ecological Benefits Framework (EBF) and fostering partnerships within the ReFi community.
+- **Prosperity Passport Development** - Development of a product to support Web3 identity in the Celo and ReFi economy.
 
 **Process:**
 1. **Apply to join ReFi DAO Global** as a contributor (if not already)
@@ -179,7 +174,9 @@ A ReFi DAO Network Initiative is an **autonomous project, guild, or working grou
 3. **Submit for funding** through the Network Initiatives Pool
 4. **Launch and integrate** with network coordination
 
-**Complete guide:** **👉 [Starting a ReFi Network Initiative - Onboarding Guide](https://www.notion.so/Starting-a-ReFi-Network-Initiative-Onboarding-Guide-2062e7251f2f8049abb0c3a2599d98cd)**
+> 💡 **Note:** The Network Initiatives funding pool is designed to fund **new initiatives or specific partnership initiatives within the ReFi DAO network** (e.g., collaboration projects with a Local Node). This funding is **not intended to support the development of your existing ReFi project** but rather to establish new initiatives that will operate as part of the ReFi DAO ecosystem.
+
+**Complete guide:** **👉 [[documents/starting-network-initiative|Starting a ReFi Network Initiative - Onboarding Guide]]**
 
 ---
 
@@ -199,7 +196,7 @@ Get access to comprehensive brand assets, design templates, and Local Node devel
 - 💬 Private communication channels & mentorship
 - 💰 Funding opportunities & support resources
 
-**👉 [Access Full Internal Resources Hub →](internal-resources.md)**
+**👉 [[internal/index|Access Full Internal Resources Hub →]]**
 
 *Available to verified Network Members and Local Node Leaders only*
 
@@ -209,24 +206,24 @@ Get access to comprehensive brand assets, design templates, and Local Node devel
 
 ### Foundational Documents
 
-- [ReFi DAO Community Covenant V1](https://www.notion.so/ReFi-DAO-Community-Covenant-V1-2072e7251f2f801bafbcc06b48debc70)
-- [ReFi DAO Network - Structure, Roles, & Governance](https://www.notion.so/ReFi-DAO-Network-Structure-Roles-Governance-2062e7251f2f80219df3d996d1a95ea1)
-- [ReFi DAO Local Node Membership Agreement v1](https://www.notion.so/ReFi-DAO-Local-Node-Membership-Agreement-v1-2082e7251f2f8007985df4ee979dcc32)
-- [ReFi DAO Reputation - Contribution Points Documentation](https://www.notion.so/ReFi-DAO-Reputation-Contribution-Points-Documentation-2082e7251f2f80a9be95f674baa25646)
-- [ReFi DAO Garden - Funding Pools](https://www.notion.so/ReFi-DAO-Garden-Funding-Pools-2082e7251f2f80778e47d12b39178132)
+- [[documents/community-covenant|ReFi DAO Community Covenant V1]]
+- [[documents/network-structure|ReFi DAO Network - Structure, Roles, & Governance]]
+- [[documents/local-node-membership-agreement|ReFi DAO Local Node Membership Agreement v1]]
+- [[documents/contribution-points|ReFi DAO Reputation - Contribution Points Documentation]]
+- [[documents/community-garden|ReFi DAO Community Garden]]
 
 ### Onboarding Guides
 
-- [ReFi DAO Network Member Onboarding Guide](https://www.notion.so/ReFi-DAO-Network-Member-Onboarding-Guide-2032e7251f2f80d7949ffdafe1bcbf46)
-- [ReFi DAO Global Onboarding Guide](https://www.notion.so/ReFi-DAO-Global-Onboarding-Guide-2032e7251f2f805c9a75d3717e0c7488)
-- [Starting a ReFi Local Node - Onboarding Guide](https://www.notion.so/Starting-a-ReFi-Local-Node-Onboarding-Guide-2032e7251f2f80d08a56fa2e65109a93)
-- [Starting a ReFi Network Initiative - Onboarding Guide](https://www.notion.so/Starting-a-ReFi-Network-Initiative-Onboarding-Guide-2062e7251f2f8049abb0c3a2599d98cd)
+- [[documents/network-member-onboarding|ReFi DAO Network Member - Onboarding Guide]]
+- [[documents/global-onboarding|ReFi DAO Global Onboarding Guide]]
+- [[documents/starting-local-node|Starting a ReFi Local Node - Onboarding Guide]]
+- [[documents/starting-network-initiative|Starting a ReFi Network Initiative - Onboarding Guide]]
 
 ### Operations & Tools
 
-- [Garden Pools Setup](https://www.notion.so/ReFi-DAO-Garden-Funding-Pools-2082e7251f2f80778e47d12b39178132) - Funding mechanisms
-- [Contribution Points System](https://www.notion.so/ReFi-DAO-Reputation-Contribution-Points-Documentation-2082e7251f2f80a9be95f674baa25646) - Recognition framework
-- [Regen Coordination Hub](https://hub.regencoordination.xyz/c/refi-dao/21/none) - Community forum
+- [[documents/community-garden|Garden Pools Setup]] - Funding mechanisms
+- [[documents/contribution-points|Contribution Points System]] - Recognition framework
+- [**Regen Coordination Hub**](https://hub.regencoordination.xyz/c/refi-dao/21/none) - Community forum
 
 ---
 

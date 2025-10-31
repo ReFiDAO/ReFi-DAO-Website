@@ -22,3 +22,4 @@ Multi-disciplinary groups working towards a common goal.
 
 Join a working group to collaborate on specific initiatives and contribute to regenerative finance.
 
+
