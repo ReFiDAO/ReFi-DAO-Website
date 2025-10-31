@@ -15,34 +15,61 @@ Local Nodes are regional communities within the ReFi DAO ecosystem that implemen
 
 Each Local Node operates with regional autonomy while maintaining alignment with ReFi DAO's global vision, mission and values.
 
-## Regional View
+## Interactive Map
 
-### 🌎 North America
+An interactive map showing all ReFi Local Nodes worldwide is coming soon. The map will allow you to:
+- Explore nodes by region
+- View node details and contact information
+- Filter by status and focus areas
+- Link to individual node pages
+
+## Regional Overview
+
+### 🌎 North America (2 nodes)
 - ReFi Silicon Valley (USA)
 - ReFi Mexico
-- ReFi Miami (USA)
 
-### 🌎 South America
+### 🌎 South America (10 nodes)
 - ReFi Colombia
 - ReFi Medellín (Colombia)
 - ReFi Atlántico (Colombia)
 - ReFi Latam
 - ReFi Costa Rica
-- ReFi São Paulo (Brazil)
-- ReFi Willemstad (Curaçao)
+- ReFi Uruguay
+- ReFi Maldonado (Uruguay)
+- ReFi Saravena (Colombia)
+- ReFi Global (Colombia)
 
-### 🌍 Europe
+### 🌍 Europe (8 nodes)
 - ReFi Lisboa (Portugal)
 - ReFi Barcelona (Spain)
 - ReFi London (United Kingdom)
 - ReFi Geneva (Switzerland)
+- ReFi Paris (France)
+- ReFi France
+- ReFi Berlin (Germany)
+- ReFi UK
+- ReFi Portugal
 
-### 🌍 Africa
-- ReFi Dar El Salam (Tanzania)
+### 🌍 Africa (3 nodes)
+- ReFi DRC (Democratic Republic of the Congo)
+- ReFi Uganda
+- ReFi Lagos (Nigeria)
 
-### 🌏 Asia
+### 🌏 Asia (3 nodes)
 - ReFi Hong Kong
 - ReFi Japan
+- ReFi Phangan (Thailand)
+
+## Node Data
+
+Complete node data is available in [[local-nodes.json|JSON format]] for map integration and API access.
+
+## Starting a Local Node
+
+Interested in starting a Local Node in your region? Check out our [[../resources-hub/index|Resources Hub]] for guides and resources.
+
+See: [[../resources-hub/index#🌳 Stage 3: Lead & Build|Starting a ReFi Local Node - Onboarding Guide]]
 - ReFi Phangan (Thailand)
 
 ## Featured Nodes

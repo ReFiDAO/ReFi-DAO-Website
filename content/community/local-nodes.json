@@ -1,0 +1,375 @@
+{
+  "nodes": [
+    {
+      "id": "refi-lisboa",
+      "name": "ReFi Lisboa",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "region": "Europe",
+      "city": "Lisboa",
+      "status": "active",
+      "coordinates": {
+        "latitude": 38.7223,
+        "longitude": -9.1393
+      },
+      "recordId": "recgtsQ4UANi2VAba"
+    },
+    {
+      "id": "refi-hong-kong",
+      "name": "ReFi Hong Kong",
+      "country": "Hong Kong",
+      "countryCode": "HK",
+      "region": "Asia",
+      "city": "Hong Kong",
+      "status": "active",
+      "coordinates": {
+        "latitude": 22.3193,
+        "longitude": 114.1694
+      },
+      "recordId": "recbdhk4ACOs5W8gO"
+    },
+    {
+      "id": "refi-colombia",
+      "name": "ReFi Colombia",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "region": "South America",
+      "city": null,
+      "status": "active",
+      "coordinates": {
+        "latitude": 4.7110,
+        "longitude": -74.0721
+      },
+      "recordId": "recHj0qV0WmOvjn2y"
+    },
+    {
+      "id": "refi-latam",
+      "name": "ReFi Latam",
+      "country": "Latin America",
+      "countryCode": "LATAM",
+      "region": "South America",
+      "city": null,
+      "status": "active",
+      "coordinates": null,
+      "recordId": "rec9iIz5tgEC4SAeE"
+    },
+    {
+      "id": "refi-medellin",
+      "name": "ReFi Medellín",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "region": "South America",
+      "city": "Medellín",
+      "status": "active",
+      "coordinates": {
+        "latitude": 6.2476,
+        "longitude": -75.5658
+      },
+      "recordId": "recaTqLlqYbyYPzIr"
+    },
+    {
+      "id": "refi-costa-rica",
+      "name": "ReFi Costa Rica",
+      "country": "Costa Rica",
+      "countryCode": "CR",
+      "region": "South America",
+      "city": null,
+      "status": "active",
+      "coordinates": {
+        "latitude": 9.7489,
+        "longitude": -83.7534
+      },
+      "recordId": "rechcJzZUiAbvk3tI"
+    },
+    {
+      "id": "refi-barcelona",
+      "name": "ReFi Barcelona",
+      "country": "Spain",
+      "countryCode": "ES",
+      "region": "Europe",
+      "city": "Barcelona",
+      "status": "active",
+      "coordinates": {
+        "latitude": 41.3851,
+        "longitude": 2.1734
+      },
+      "recordId": "rec64bnwA7lFO3Vkz"
+    },
+    {
+      "id": "refi-london",
+      "name": "ReFi London",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "region": "Europe",
+      "city": "London",
+      "status": "active",
+      "coordinates": {
+        "latitude": 51.5074,
+        "longitude": -0.1278
+      },
+      "recordId": "recurab6LfoelkVzm"
+    },
+    {
+      "id": "refi-atlantico",
+      "name": "ReFi Atlántico",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "region": "South America",
+      "city": "Atlántico",
+      "status": "active",
+      "coordinates": {
+        "latitude": 10.9639,
+        "longitude": -74.7964
+      },
+      "recordId": "recr2YltFA6o3RddM"
+    },
+    {
+      "id": "refi-mexico",
+      "name": "ReFi Mexico",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "region": "North America",
+      "city": null,
+      "status": "active",
+      "coordinates": {
+        "latitude": 23.6345,
+        "longitude": -102.5528
+      },
+      "recordId": "recPKGiAo38ks4BH5"
+    },
+    {
+      "id": "refi-geneva",
+      "name": "ReFi Geneva",
+      "country": "Switzerland",
+      "countryCode": "CH",
+      "region": "Europe",
+      "city": "Geneva",
+      "status": "active",
+      "coordinates": {
+        "latitude": 46.2044,
+        "longitude": 6.1432
+      },
+      "recordId": "recLN0PaI1sHXoGVL"
+    },
+    {
+      "id": "refi-phangan",
+      "name": "ReFi Phangan",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "region": "Asia",
+      "city": "Ko Phangan",
+      "status": "active",
+      "coordinates": {
+        "latitude": 9.7500,
+        "longitude": 100.0167
+      },
+      "recordId": "reclOf4r3JtoK9C9X"
+    },
+    {
+      "id": "refi-drc",
+      "name": "ReFi DRC",
+      "country": "Democratic Republic of the Congo",
+      "countryCode": "CD",
+      "region": "Africa",
+      "city": null,
+      "status": "active",
+      "coordinates": {
+        "latitude": -4.0383,
+        "longitude": 21.7587
+      },
+      "recordId": "rec9IqhuxyjN3FFn0"
+    },
+    {
+      "id": "refi-saravena",
+      "name": "ReFi Saravena",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "region": "South America",
+      "city": "Saravena",
+      "status": "active",
+      "coordinates": {
+        "latitude": 6.9547,
+        "longitude": -71.8750
+      },
+      "recordId": "recQzWVVUP8H6LnNQ"
+    },
+    {
+      "id": "refi-uganda",
+      "name": "ReFi Uganda",
+      "country": "Uganda",
+      "countryCode": "UG",
+      "region": "Africa",
+      "city": null,
+      "status": "active",
+      "coordinates": {
+        "latitude": 1.3733,
+        "longitude": 32.2903
+      },
+      "recordId": "recIlCswPppaezHa8"
+    },
+    {
+      "id": "refi-lagos",
+      "name": "ReFi Lagos",
+      "country": "Nigeria",
+      "countryCode": "NG",
+      "region": "Africa",
+      "city": "Lagos",
+      "status": "active",
+      "coordinates": {
+        "latitude": 6.5244,
+        "longitude": 3.3792
+      },
+      "recordId": "recrOLrEL4FqYsLT6"
+    },
+    {
+      "id": "refi-silicon-valley",
+      "name": "ReFi Silicon Valley",
+      "country": "USA",
+      "countryCode": "US",
+      "region": "North America",
+      "city": "Silicon Valley",
+      "status": "active",
+      "coordinates": {
+        "latitude": 37.3875,
+        "longitude": -122.0575
+      },
+      "recordId": "recMTUu6Bn8NSXbSn"
+    },
+    {
+      "id": "refi-japan",
+      "name": "ReFi Japan",
+      "country": "Japan",
+      "countryCode": "JP",
+      "region": "Asia",
+      "city": null,
+      "status": "active",
+      "coordinates": {
+        "latitude": 36.2048,
+        "longitude": 138.2529
+      },
+      "recordId": null
+    },
+    {
+      "id": "refi-uk",
+      "name": "ReFi UK",
+      "country": "United Kingdom",
+      "countryCode": "GB",
+      "region": "Europe",
+      "city": null,
+      "status": "active",
+      "coordinates": {
+        "latitude": 54.7024,
+        "longitude": -3.2766
+      },
+      "recordId": "recodlBgpVwxSGDbv"
+    },
+    {
+      "id": "refi-paris",
+      "name": "ReFi Paris",
+      "country": "France",
+      "countryCode": "FR",
+      "region": "Europe",
+      "city": "Paris",
+      "status": "active",
+      "coordinates": {
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      },
+      "recordId": "rec0T6k5fdECX3Kzf"
+    },
+    {
+      "id": "refi-france",
+      "name": "ReFi France",
+      "country": "France",
+      "countryCode": "FR",
+      "region": "Europe",
+      "city": null,
+      "status": "active",
+      "coordinates": {
+        "latitude": 46.2276,
+        "longitude": 2.2137
+      },
+      "recordId": "recaTqLlqYbyYPzIr"
+    },
+    {
+      "id": "refi-berlin",
+      "name": "ReFi Berlin",
+      "country": "Germany",
+      "countryCode": "DE",
+      "region": "Europe",
+      "city": "Berlin",
+      "status": "active",
+      "coordinates": {
+        "latitude": 52.5200,
+        "longitude": 13.4050
+      },
+      "recordId": "rechcJzZUiAbvk3tI"
+    },
+    {
+      "id": "refi-uruguay",
+      "name": "ReFi Uruguay",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "region": "South America",
+      "city": null,
+      "status": "active",
+      "coordinates": {
+        "latitude": -32.5228,
+        "longitude": -55.7658
+      },
+      "recordId": "recDz12EzDNsfO58j"
+    },
+    {
+      "id": "refi-maldonado",
+      "name": "ReFi Maldonado",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "region": "South America",
+      "city": "Maldonado",
+      "status": "active",
+      "coordinates": {
+        "latitude": -34.9000,
+        "longitude": -54.9500
+      },
+      "recordId": "rec64bnwA7lFO3Vkz"
+    },
+    {
+      "id": "refi-portugal",
+      "name": "ReFi Portugal",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "region": "Europe",
+      "city": null,
+      "status": "active",
+      "coordinates": {
+        "latitude": 39.3999,
+        "longitude": -8.2245
+      },
+      "recordId": "recurab6LfoelkVzm"
+    },
+    {
+      "id": "refi-global",
+      "name": "ReFi Global",
+      "country": "Colombia",
+      "countryCode": "CO",
+      "region": "South America",
+      "city": null,
+      "status": "active",
+      "coordinates": null,
+      "recordId": "recnTKVMMNAjSU6SA"
+    }
+  ],
+  "metadata": {
+    "lastUpdated": "2025-10-31",
+    "source": "Extracted from refidao.com/community/local",
+    "totalNodes": 26,
+    "regions": {
+      "North America": 2,
+      "South America": 10,
+      "Europe": 8,
+      "Africa": 3,
+      "Asia": 3
+    }
+  }
+}
+
