@@ -59,6 +59,14 @@ export default {
     contentMeta: {
       readingTime: ({ minutes }) => `${minutes} min read`,
     },
+    navigation: {
+      home: "Home",
+      about: "About",
+      community: "Community",
+      resourcesHub: "Resources Hub",
+      media: "Media",
+      nodes: "Nodes",
+    },
   },
   pages: {
     rss: {

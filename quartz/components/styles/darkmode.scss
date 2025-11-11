@@ -2,21 +2,53 @@
   cursor: pointer;
   padding: 0;
   position: relative;
-  background: none;
-  border: none;
-  width: 20px;
-  height: 20px;
+  width: var(--action-btn-size);
+  height: var(--action-btn-size);
+  min-width: var(--action-btn-size);
+  min-height: var(--action-btn-size);
+  max-width: var(--action-btn-size);
+  max-height: var(--action-btn-size);
   margin: 0;
   text-align: inherit;
   flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: var(--action-btn-border);
+  background: var(--action-btn-bg);
+  box-shadow: var(--action-btn-shadow);
+  border-radius: var(--radius-pill);
+  transition:
+    background-color 0.2s ease,
+    border-color 0.2s ease,
+    transform 0.2s ease;
+  color: var(--refi-blue-medium);
+  box-sizing: border-box;
+
+  &:hover {
+    background: var(--action-btn-bg-hover);
+    border-color: var(--refi-blue-medium);
+  }
+
+  &:active {
+    transform: translateY(1px);
+    background: var(--action-btn-bg-hover);
+  }
+
+  &:focus-visible {
+    outline: 2px solid var(--refi-blue-medium);
+    outline-offset: 3px;
+  }
 
   & svg {
     position: absolute;
     width: 20px;
     height: 20px;
     top: calc(50% - 10px);
-    fill: var(--darkgray);
-    transition: opacity 0.1s ease;
+    left: calc(50% - 10px);
+    fill: var(--refi-blue-medium);
+    stroke: none;
+    transition: fill 0.2s ease, opacity 0.1s ease;
   }
 }
 

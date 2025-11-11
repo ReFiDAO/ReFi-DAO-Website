@@ -1,4 +1,5 @@
-const userPref = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark"
+// Default to dark mode for ReFi-DAO
+const userPref = "dark" // Force dark as default instead of system preference
 const currentTheme = localStorage.getItem("theme") ?? userPref
 document.documentElement.setAttribute("saved-theme", currentTheme)
 
