@@ -3,15 +3,14 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Media - ReFi DAO</title>
-  <meta name="description" content="Listen, watch, and read the latest media from ReFi DAO.">
+  <title>Network - ReFi DAO</title>
+  <meta name="description" content="Explore the ReFi DAO network: Local Nodes building regenerative economies and Network Initiatives advancing the ReFi mission.">
   
   <!-- Open Graph -->
-  <meta property="og:title" content="Media - ReFi DAO">
-  <meta property="og:description" content="Listen, watch, and read the latest media from ReFi DAO.">
+  <meta property="og:title" content="ReFi DAO Network">
+  <meta property="og:description" content="Explore the global network of regenerative finance communities and initiatives.">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://refidao.com/media">
-  <meta property="og:image" content="https://refidao.com/assets/og-image.png">
+  <meta property="og:url" content="https://refidao.com/network">
   
   <!-- Favicon -->
   <link rel="icon" href="../assets/favicon.png" type="image/png">
@@ -23,6 +22,75 @@
   
   <!-- Styles -->
   <link rel="stylesheet" href="../styles/main.css">
+  
+  <style>
+    .network-hero {
+      position: relative;
+      overflow: hidden;
+    }
+    
+    .network-hero__bg {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      width: 800px;
+      height: 800px;
+      opacity: 0.08;
+      pointer-events: none;
+      z-index: 0;
+    }
+    
+    @media (min-width: 768px) {
+      .network-hero__bg {
+        width: 1100px;
+        height: 1100px;
+      }
+    }
+    
+    .network-hero .container {
+      position: relative;
+      z-index: 1;
+    }
+    
+    .network-explore__card {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+      padding: var(--space-6);
+    }
+    
+    .network-explore__icon {
+      width: 140px;
+      height: 140px;
+      margin-bottom: var(--space-4);
+      border-radius: var(--radius-xl);
+      object-fit: contain;
+    }
+    
+    .network-explore__title {
+      font-family: var(--font-heading);
+      font-size: var(--text-xl);
+      font-weight: var(--font-semibold);
+      margin-bottom: var(--space-3);
+    }
+    
+    .network-explore__description {
+      color: var(--color-text-muted);
+      font-size: var(--text-base);
+      line-height: var(--leading-relaxed);
+      margin-bottom: var(--space-4);
+      flex-grow: 1;
+    }
+    
+    .network-hero .card-grid {
+      grid-template-columns: repeat(2, 1fr);
+      max-width: 800px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+  </style>
 </head>
 <body class="is-loading">
   <div class="bg-noise"></div>
@@ -39,10 +107,10 @@
           <a href="about.html" class="nav__link">About</a>
         </li>
         <li class="nav__item">
-          <a href="network.html" class="nav__link">Network</a>
+          <a href="network.html" class="nav__link is-active">Network</a>
         </li>
         <li class="nav__item">
-          <a href="media.html" class="nav__link is-active">Media</a>
+          <a href="media.html" class="nav__link">Media</a>
         </li>
         <li class="nav__item">
           <a href="resources-hub.html" class="nav__link">Resources</a>
@@ -80,49 +148,38 @@
     </div>
   </div>
   
-  <!-- MEDIA HERO -->
-  <header class="resources-hub section section-lg" style="background: linear-gradient(to bottom, var(--color-bg), var(--color-bg-deep));">
+  <!-- NETWORK HERO -->
+  <header class="network-hero resources-hub section section-lg" style="background: linear-gradient(to bottom, var(--color-bg), var(--color-bg-deep));">
+    <img src="../assets/refidaonetwork.png" alt="" class="network-hero__bg">
     <div class="container">
-      <span class="pill-badge fade-in-up">Media</span>
+      <span class="pill-badge fade-in-up">Network</span>
       <h1 class="about-hero__title fade-in-up fade-in-delay-1">
-        ReFi DAO <span class="gradient-text">Media</span>
+        ReFi DAO <span class="gradient-text">Network</span>
       </h1>
       <p class="about-hero__subtitle fade-in-up fade-in-delay-2">
-        Listen, watch, and read the latest stories, conversations, and insights from the ReFi movement.
+        A global network of place-based communities and collaborative initiatives 
+        building regenerative economies from the ground up.
       </p>
       
       <div class="card-grid mt-12">
-        <a href="https://podcast.refidao.com" target="_blank" class="glass-card glass-card--interactive resource-card" data-animate>
-          <div class="resource-card__icon">
-            <img src="../assets/media/listen.png" alt="" class="resource-card__icon-img">
-          </div>
-          <!-- <h3 class="resource-card__title">Listen</h3> -->
-          <p class="resource-card__description">
-            Conversations with builders and thinkers shaping regenerative finance.
+        <a href="local-nodes.html" class="glass-card glass-card--interactive network-explore__card" data-animate>
+          <img src="../assets/refilocalnodepin.png" alt="Global node map" class="network-explore__icon">
+          <h3 class="network-explore__title">Local Nodes</h3>
+          <p class="network-explore__description">
+            Place-based community hubs bringing together organizers, builders, activists, investors, and institutions 
+            to collectively shape new models for local regenerative economies.
           </p>
-          <span class="resource-card__link">ReFi Podcast ↗</span>
+          <span class="resource-card__link">Explore Local Nodes →</span>
         </a>
         
-        <a href="https://youtube.com/@refidao" target="_blank" class="glass-card glass-card--interactive resource-card" data-animate data-animate-delay="100">
-          <div class="resource-card__icon">
-            <img src="../assets/media/watch.png" alt="" class="resource-card__icon-img">
-          </div>
-          <!-- <h3 class="resource-card__title">Watch</h3> -->
-          <p class="resource-card__description">
-            Talks, workshops, and videos from ReFi DAO and the broader ecosystem.
+        <a href="initiatives.html" class="glass-card glass-card--interactive network-explore__card" data-animate data-animate-delay="100">
+          <img src="../assets/refidaoinitiatives.png" alt="Network initiatives" class="network-explore__icon">
+          <h3 class="network-explore__title">Network Initiatives</h3>
+          <p class="network-explore__description">
+            Autonomous working groups and collaborative programs advancing specific missions 
+            within the ReFi ecosystem — from education and research to regional coordination.
           </p>
-          <span class="resource-card__link">ReFi DAO YouTube ↗</span>
-        </a>
-        
-        <a href="https://blog.refidao.com" target="_blank" class="glass-card glass-card--interactive resource-card" data-animate data-animate-delay="200">
-          <div class="resource-card__icon">
-            <img src="../assets/media/read.png" alt="" class="resource-card__icon-img">
-          </div>
-          <!-- <h3 class="resource-card__title">Read</h3> -->
-          <p class="resource-card__description">
-            Articles, research, and stories exploring regenerative finance in action.
-          </p>
-          <span class="resource-card__link">ReFi DAO Blog ↗</span>
+          <span class="resource-card__link">Explore Initiatives →</span>
         </a>
       </div>
     </div>
